@@ -1,1 +1,1 @@
-Updated readme for Containers A-Z workshop
+readme for Containers A-Z workshop
